@@ -1,0 +1,18 @@
+{
+  "name": "Tptdw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o app/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/forms": "^0.2.1",
+    "@tailwindcss/line-clamp": "^0.2.0",
+    "autoprefixer": "^10.2.4",
+    "tailwindcss": "^2.0.3"
+  }
+}

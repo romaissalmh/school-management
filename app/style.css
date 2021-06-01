@@ -1,0 +1,27 @@
+@keyframes slider {
+    0% { transform: translateY(0px); }
+	
+	25% { transform: translateY(-300px); }
+
+	75% { transform: translateY(-900px); }
+	
+	100% { transform: translateY(0px);  }
+}
+
+
+div.contain{
+    overflow: hidden;
+    margin:0 aut;
+   
+}
+
+
+
+div.slider{
+   height: 900px;
+    animation-name:slider;
+	animation-duration:20s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count:infinite;
+}
+div.slider:hover { animation-play-state:paused; }
