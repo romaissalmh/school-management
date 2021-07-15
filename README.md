@@ -18,6 +18,6 @@ Restauration
 This app is made using php, html & tailwindcss and mysql for database management respecting the MVC pattern. 
 
 #Here are some screenshots:
-![alt home-page](https://drive.google.com/file/d/1xtRGk3dXjqEnFpSxsrrAzL8jmErMDCw9/view?usp=sharing)
+![alt home-page](https://drive.google.com/file/d/1xtRGk3dXjqEnFpSxsrrAzL8jmErMDCw9/view?usp=sharing/home_page_tdw.png)
 
 
